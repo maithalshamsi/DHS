@@ -1,4 +1,12 @@
 main:
+  - title: "A1"
+    url: /A1/
+  - title: "A2"
+    url: /A2/
+  - title: "A3"
+    url: /A3/
+  - title: "A4"
+    url: /A4/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
