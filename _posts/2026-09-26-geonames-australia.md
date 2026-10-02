@@ -19,6 +19,9 @@ tags:
 
 
 
+
+
+
 Maps usually seem like a simple representation of places and their locations, but there is much more behind what we see. For this assignment, I used GeoNames data to explore and analyze Australia's eastern coast through three features of my choosing and focused on the relationship between them through the topic of natural coastline and tourism. 
 
 ## Background & Expectations
