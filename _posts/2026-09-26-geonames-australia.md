@@ -11,6 +11,9 @@ title: "Mapping Coastal Tourism in Australia"
   </iframe>
 </div>
 
+
+
+
 Maps usually seem like a simple represntation of places and their locations, but there is much more behind what we see. For this assignment, I used GeoNames data to explore and analyze Australia's eastern coast through three features of my choosing, and focused on the relationship between them through the topic of natural coastline and tourism. 
 
 ## Background & Expectations
@@ -54,7 +57,15 @@ Looking into these sources opened my eyes to GeoNames even more. When I first do
 
 
 ## Transferability
-As a business major, I can definitely see myself using this workflow in future courses and in future projects outside of university as well. My capstone project came to mind. I could use a similar process to take a large dataset and filter it in order for it to be relevant to my research question. It could help with visualizing geographically. Mapping business locations, tourism activities, and customer access could all be a good example of when it would be handy in my field. More importantly, this assignment taught me that visualization isn’t just about creating a map, it goes beyond that. Every point on the map represents a decision about what was collected and included. Finally, I also got to learn more about Australia, one of my favorite places to visit, which was a nice bonus. 
+As a business major, I can definitely see myself using this workflow in future courses and in future projects outside of university as well. My capstone project came to mind. I could use a similar process to take a large dataset and filter it in order for it to be relevant to my research question. It could help with visualizing geographically. Mapping business locations, tourism activities, and customer access could all be a good example of when it would be handy in my field. I can also see this being useful when making businiess decisions. Location is vital when it comes to opening new busniesses. Deciding where to open them could be supported with the help of mapping different types of data instead of only looking at numbers in a spreadsheet. Factors like, tourist attractions, competitors, and nearby businesses could all increase the efficency thrpugh geography. This assignment also showed me how important filtering is. I first started off with all of Australia, which got really overwhelming, but narrowing the data down to the eastern coast and only three feature codes made it much easier to notice and understand patterns.
+
+More importantly, this assignment taught me that visualization isn’t just about creating a map, it goes beyond that. Every point on the map represents a decision about what was collected and included. Finally, I also got to learn more about Australia, one of my favorite places to visit, which was a nice bonus. 
 
 
-I used generative AI to help troubleshoot how to fix my screenshots. They kept appearing as "?".
+
+
+
+I used generative AI to help troubleshoot how to fix my screenshots. They kept appearing as "?". so it helped me adjust the code to use relative_url, which allowed the screenshots to display correctly.
+
+
+READY FOR GRADING
