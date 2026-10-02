@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Mapping Coastal Tourism in Australia"
 ---
 
