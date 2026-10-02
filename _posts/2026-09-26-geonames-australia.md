@@ -11,6 +11,8 @@ title: "Mapping Coastal Tourism in Australia"
   </iframe>
 </div>
 
+Maps usually seem like a simple represntation of places and their locations, but there is much more behind what we see. For this assignment, I used GeoNames data to explore and analyze Australia's eastern coast through three features of my choosing, and focused on the relationship between them through the topic of natural coastline and tourism. 
+
 ## Background & Expectations
 Australia, the land down under. I’ve been to many cities in Australia, hence why I decided to choose it for this project. I already knew that Australia has a very large coastline with numerous islands, beaches, and of course, hotels. Since Australia is a very big country, I thought it was best to add a bounding box  around the eastern coast. This way I could focus on a smaller area that has both, a great visual of coastal features, and several areas associated with coastal tourism. Because of this, I expected to see many shoreline features to appear in the GeoNames data, which got me interested in whether tourism related factors would show up near the natural coastal features.
 
@@ -26,6 +28,8 @@ One of the clearest patterns that I noticed in my map were the numerous hotels. 
 Something else that I have noticed was the fact that GeoNames records had some missing information. For instance, a few locations did not have the population or elevation data available. This made me realize that a map won't always represent every location with equal amount of detail. This however, doesn’t mean that the location itself does not exist, it simply means that some information about it was not recorded in GeoNames. 
 
 This reminds me of the Kitchin and Lauriault’s article on Critical Data Studies. Data is not supposed to be read as a concrete and complete representation of reality. How the information is collected influences how it will visualize itself in a dataset. This leads me to understand that the differences in coverage and missing information means I don't necessarily have every hotel, island, or beach mapped out. I am mapping what has been recorded and classified in GeoNames. 
+
+This also reminds me of a video we had to watch for class "Do Maps Lie?". The video explains how there isn't a completely accurate way to turn the spherical earth into a flat map without creating some sort of inaccuracy. Different ways of displaying the world on a flat map can have an impact on how the sizing, shapes, distances, and directions appear. What stood out to me the most was the way a map represents the world depends on the choices made when creating it. This got me thinking more about my GeoNames map because there are a variety of decisions involved. Factors like which locations were recorded, or how they are classified, and even which feature codes I chose to display. My map is not “wrong”, but it is also not a perfect picture of coastal tourism in Australia. It’s a representation created from a particular dataset. 
 
 Keeping all these limitations in mind, I still found some interesting patterns when I looked more closely at my map. I noticed that hotels are focused more on developed areas. My interpretation is that this may be because more developed areas are more accessible and attractive to tourists. When looking into the layers separately, it opened my eyes to even more. I expected islands to appear more consistently along the coastline, but they were actually scattered offshore in some areas, while beaches were along the coastline more. 
 
@@ -46,6 +50,11 @@ Australia has 2 GeoNames ambassadors. William (Bill) Smith, and Charles Elliott.
 
 GeoNames identifies 5 national data providers for Australia. Australian Bureau of Statistics, Geoscience Australia, and more. But one that caught my eye was Tourism Research Australia. This interested me the most because my project is specifically focused in that area. It is directly connected to my topic, however, I can’t just assume that all the hotel points that I got in my map came from Tourism Research Australia just because it is listed as a source.
 
+Looking into these sources opened my eyes to GeoNames even more. When I first downloaded the data, I saw the large dataset and did not really think about where and how that information reached me. Now that I know that GeoNames brings together information and data from different providers, it made me understand the idea of a data assemblage in a more clearly. The points might all look the same once they appear on the map, however, the information behind them all may have different origins and collected for different reasons and purposes. This is important when it comes to analyzing my results because I cannot just assume that all my data came from just one place.
+
+
 ## Transferability
 As a business major, I can definitely see myself using this workflow in future courses and in future projects outside of university as well. My capstone project came to mind. I could use a similar process to take a large dataset and filter it in order for it to be relevant to my research question. It could help with visualizing geographically. Mapping business locations, tourism activities, and customer access could all be a good example of when it would be handy in my field. More importantly, this assignment taught me that visualization isn’t just about creating a map, it goes beyond that. Every point on the map represents a decision about what was collected and included. Finally, I also got to learn more about Australia, one of my favorite places to visit, which was a nice bonus. 
 
+
+I used generative AI to help troubleshoot how to fix my screenshots. They kept appearing as "?".
