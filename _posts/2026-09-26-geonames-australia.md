@@ -29,12 +29,12 @@ This reminds me of the Kitchin and Lauriault’s article on Critical Data Studie
 
 Keeping all these limitations in mind, I still found some interesting patterns when I looked more closely at my map. I noticed that hotels are focused more on developed areas. My interpretation is that this may be because more developed areas are more accessible and attractive to tourists. When looking into the layers separately, it opened my eyes to even more. I expected islands to appear more consistently along the coastline, but they were actually scattered offshore in some areas, while beaches were along the coastline more. 
 
-<img src="{{ '/assets/images/beach.png' | relative_url }}" width="600">
+<img src="{{ '/assets/images/beach.png' | relative_url }}" width="450">
 *Figure 1. Beaches (yellow) follow the coastline, while islands (teal) are more scattered offshore.*
 
 I also realized that hotels are more spread out and often had beaches nearby. I originally expected the natural coastal features to stand out the most, so I was surprised by how much more dominant the hotel layer was on the map.
 
-<img src="{{ '/assets/images/hotel.png' | relative_url }}" width="600">
+<img src="{{ '/assets/images/hotel.png' | relative_url }}" width="450">
 
 *Figure 2. Hotels (pink) are visually dominant, especially along the coastline and around developed areas.*
 
