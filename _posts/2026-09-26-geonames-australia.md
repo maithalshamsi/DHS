@@ -74,6 +74,11 @@ More importantly, this assignment taught me that visualization isn’t just abou
 
 
 
+
+
+
+
+
 I used generative AI to help troubleshoot how to fix my screenshots. They kept appearing as "?", so it helped me adjust the code to use relative_url, which allowed the screenshots to display correctly.
 
 
