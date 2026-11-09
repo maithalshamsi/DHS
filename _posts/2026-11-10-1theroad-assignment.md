@@ -1,12 +1,18 @@
 
 ---
-layout: post
+layout: single
 title: "Mapping 1 the Road"
-date: 2026-11-09
+tags:
+  - Geocoding
+  - Interactive Map
+  - 1 the Road
+  - F26
 ---
 
-<iframe src="{{ '/assets/maps/1TheRoad_map.html' | relative_url }}" width="100%" height="550" style="border:none;"></iframe>
-
-## Introduction
-
-blah
+<div style="width:100%; height:70vh;">
+  <iframe
+    src="{{ '/assets/maps/1TheRoad_map.html' | relative_url }}"
+    style="width:100%; height:100%; border:0;"
+    loading="lazy">
+  </iframe>
+</div>
