@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Mapping 1 the Road"
